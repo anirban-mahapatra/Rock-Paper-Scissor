@@ -1,13 +1,14 @@
 # Rock, Paper, Scissors Game
 
 ## Table of Contents
-1. Overview
-   ### The Challenge
-3. My Process
-   ### Built With
-   ### What I Learned
-   ### Continued Development
-   ### Useful Resources
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 
 ## Overview
 ### The Challenge
