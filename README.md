@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -29,5 +28,5 @@ In the future, I plan to add more features to this game, such as:
 - Adding a graphical user interface
 
 ### Useful Resources
-- Java Scanner Class
-- Java Random Class
+- [Java Scanner Class](https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/java/util/Scanner.html)
+- [Java Random Class](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
