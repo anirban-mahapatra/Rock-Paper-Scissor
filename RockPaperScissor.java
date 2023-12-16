@@ -12,7 +12,7 @@ public class RockPaperScissor {
         while(i<5) {
             int com = rand.nextInt(3);
             System.out.println("\nRound left: "+(5-i));
-            System.out.print("0 FOR ROCK\n1 FOR PAPER\n2 FOR SCISSOR\nEnter your choice: ");
+            System.out.print("\n0 FOR ROCK\n1 FOR PAPER\n2 FOR SCISSOR\nEnter your choice: ");
             int cho = sc.nextInt();
 
             if ((cho==0 && com==0)||(cho==1 && com==1)||(cho==2 && com==2)){
